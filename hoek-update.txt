@@ -1,0 +1,1 @@
+npm i hoek, npm uninstall hoek, npm update, npm install
